@@ -195,14 +195,14 @@ The head beats the persistence ("copy") baseline from horizon k2 (160 ms) onward
 relevant to hiding latency — with its advantage concentrated in the coarse, turn-taking-relevant
 codebooks (cb0–cb2).
 
-![Per-horizon accuracy](figs/per_horizon.png)
-![Per-codebook margin](figs/per_codebook.png)
+![Per-horizon accuracy](duplex-spec/figs/per_horizon.png)
+![Per-codebook margin](duplex-spec/figs/per_codebook.png)
 
 ### 2. The amendable criterion dominates confidence
 On the precision/rollback frontier (strict cb0 acceptance), the amendable criterion dominates the
 entropy (confidence) gate across the whole range.
 
-![Commit frontier](figs/frontier_cb0.png)
+![Commit frontier](duplex-spec/figs/frontier_cb0.png)
 
 | Gate | Setting | Commit prec. | Rollback | Saved (ms) |
 |------|---------|--------------|----------|------------|
@@ -218,7 +218,7 @@ A logistic-regression probe over per-frame reliability signals (entropy, top-1 p
 top1–top2 margin, inter-vantage divergence, horizon) recovers the same frontier as the
 hand-designed criterion.
 
-![Probe frontier (top-5)](figs/fig_probe_frontier.png)
+![Probe frontier (top-5)](duplex-spec/figs/fig_probe_frontier.png)
 
 | Criterion | Setting | Precision | Rollback |
 |-----------|---------|-----------|----------|
@@ -251,7 +251,7 @@ is the key open problem.
 Deployed live and evaluated label-free over 16 clips from two held-out conversations, the probe
 trigger shifts turn-taking consistently — more responsive and less barge-in — though modestly.
 
-![Live comparison: user / baseline / probe](figs/user_baseline_probe.png)
+![Live comparison: user / baseline / probe](duplex-spec/figs/user_baseline_probe.png)
 
 | Condition | Gap-fill (%) | Engage (%) | Overlap (%) |
 |-----------|--------------|------------|-------------|
