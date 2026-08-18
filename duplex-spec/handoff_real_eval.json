@@ -1,0 +1,45 @@
+{
+  "auc": 0.617935009858524,
+  "thr0.3": {
+    "precision": 0.04884452592743487,
+    "recall": 0.9420495470915639,
+    "fire_rate": 0.7672976728030566,
+    "mean_lead_ms": 191.01019462465246
+  },
+  "thr0.4": {
+    "precision": 0.05126911556046035,
+    "recall": 0.8872639965076939,
+    "fire_rate": 0.6884986106286906,
+    "mean_lead_ms": 190.92742927429273
+  },
+  "thr0.5": {
+    "precision": 0.0531228955022854,
+    "recall": 0.8092327840226999,
+    "fire_rate": 0.6060350816255644,
+    "mean_lead_ms": 191.27714093054618
+  },
+  "thr0.6": {
+    "precision": 0.06241863651935595,
+    "recall": 0.0994215868165448,
+    "fire_rate": 0.06336835706842654,
+    "mean_lead_ms": 190.12074643249176
+  },
+  "thr0.7": {
+    "precision": NaN,
+    "recall": 0.0,
+    "fire_rate": 0.0,
+    "mean_lead_ms": 0.0
+  },
+  "thr0.8": {
+    "precision": NaN,
+    "recall": 0.0,
+    "fire_rate": 0.0,
+    "mean_lead_ms": 0.0
+  },
+  "thr0.9": {
+    "precision": NaN,
+    "recall": 0.0,
+    "fire_rate": 0.0,
+    "mean_lead_ms": 0.0
+  }
+}

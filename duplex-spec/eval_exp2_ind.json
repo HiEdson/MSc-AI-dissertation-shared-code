@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "val_loss": 4.000746143632098,
+  "n_points": 230631,
+  "n_convs": 10
+ },
+ "results": {
+  "cb0": {
+   "entropy": [
+    {
+     "label": "0.30",
+     "commit_prec": 0.004700925693563267,
+     "rollback": 0.3805342733630778,
+     "saved_ms": 0.46134301113033377,
+     "committed": 1.2267344806205585
+    },
+    {
+     "label": "0.50",
+     "commit_prec": 0.001718539820956445,
+     "rollback": 0.9698436029848546,
+     "saved_ms": 0.5140679266880862,
+     "committed": 3.739133074044686
+    },
+    {
+     "label": "0.70",
+     "commit_prec": 0.0016086302361781374,
+     "rollback": 0.9999523047638869,
+     "saved_ms": 0.5147616755770039,
+     "committed": 4.0
+    },
+    {
+     "label": "0.85",
+     "commit_prec": 0.0016086302361781374,
+     "rollback": 0.9999523047638869,
+     "saved_ms": 0.5147616755770039,
+     "committed": 4.0
+    },
+    {
+     "label": "0.95",
+     "commit_prec": 0.0016086302361781374,
+     "rollback": 0.9999523047638869,
+     "saved_ms": 0.5147616755770039,
+     "committed": 4.0
+    }
+   ],
+   "amendable": [
+    {
+     "label": "m=2",
+     "commit_prec": 0.030375812376377508,
+     "rollback": 0.025720740056627254,
+     "saved_ms": 0.07457800555866297,
+     "committed": 0.03068971647350096
+    },
+    {
+     "label": "m=3",
+     "commit_prec": 0.06623235613463627,
+     "rollback": 0.0031739011667989126,
+     "saved_ms": 0.02115934111199275,
+     "committed": 0.003993392041833058
+    },
+    {
+     "label": "m=4",
+     "commit_prec": 0.12254901960784313,
+     "rollback": 0.0007761315694767832,
+     "saved_ms": 0.008671861111472438,
+     "committed": 0.0008845298333701887
+    }
+   ],
+   "relaxed": [
+    {
+     "label": "w3:a2",
+     "commit_prec": 0.0323100150981379,
+     "rollback": 0.03568037254315335,
+     "saved_ms": 0.11134669667130612,
+     "committed": 0.04307747007123934
+    },
+    {
+     "label": "w4:a3",
+     "commit_prec": 0.07622377622377623,
+     "rollback": 0.005727764264127546,
+     "saved_ms": 0.03780931444601983,
+     "committed": 0.006200380694702794
+    },
+    {
+     "label": "w4:a2",
+     "commit_prec": 0.03512313282196205,
+     "rollback": 0.04145149611283826,
+     "saved_ms": 0.12071230667169634,
+     "committed": 0.04296039994623446
+    }
+   ]
+  },
+  "exact": {
+   "entropy": [
+    {
+     "label": "0.30",
+     "commit_prec": 0.0,
+     "rollback": 0.3810459131686547,
+     "saved_ms": 0.0,
+     "committed": 1.2267344806205585
+    },
+    {
+     "label": "0.50",
+     "commit_prec": 0.0,
+     "rollback": 0.9699086419431906,
+     "saved_ms": 0.0,
+     "committed": 3.739133074044686
+    },
+    {
+     "label": "0.70",
+     "commit_prec": 0.0,
+     "rollback": 1.0,
+     "saved_ms": 0.0,
+     "committed": 4.0
+    },
+    {
+     "label": "0.85",
+     "commit_prec": 0.0,
+     "rollback": 1.0,
+     "saved_ms": 0.0,
+     "committed": 4.0
+    },
+    {
+     "label": "0.95",
+     "commit_prec": 0.0,
+     "rollback": 1.0,
+     "saved_ms": 0.0,
+     "committed": 4.0
+    }
+   ],
+   "amendable": [
+    {
+     "label": "m=2",
+     "commit_prec": 0.0,
+     "rollback": 0.026449176389990937,
+     "saved_ms": 0.0,
+     "committed": 0.03068971647350096
+    },
+    {
+     "label": "m=3",
+     "commit_prec": 0.0,
+     "rollback": 0.0033646821112513063,
+     "saved_ms": 0.0,
+     "committed": 0.003993392041833058
+    },
+    {
+     "label": "m=4",
+     "commit_prec": 0.0,
+     "rollback": 0.0008845298333701887,
+     "saved_ms": 0.0,
+     "committed": 0.0008845298333701887
+    }
+   ],
+   "relaxed": [
+    {
+     "label": "w3:a2",
+     "commit_prec": 0.0,
+     "rollback": 0.036707988084862836,
+     "saved_ms": 0.0,
+     "committed": 0.04307747007123934
+    },
+    {
+     "label": "w4:a3",
+     "commit_prec": 0.0,
+     "rollback": 0.006200380694702794,
+     "saved_ms": 0.0,
+     "committed": 0.006200380694702794
+    },
+    {
+     "label": "w4:a2",
+     "commit_prec": 0.0,
+     "rollback": 0.04296039994623446,
+     "saved_ms": 0.0,
+     "committed": 0.04296039994623446
+    }
+   ]
+  }
+ }
+}

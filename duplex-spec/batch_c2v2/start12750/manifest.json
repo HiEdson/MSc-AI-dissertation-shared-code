@@ -1,0 +1,16 @@
+[
+  {
+    "clip": 0,
+    "handoff_frames": [
+      13000
+    ],
+    "turns": {
+      "baseline": 1,
+      "probe": 1
+    },
+    "files": [
+      "clip00_h13000_baseline.wav",
+      "clip00_h13000_probe.wav"
+    ]
+  }
+]

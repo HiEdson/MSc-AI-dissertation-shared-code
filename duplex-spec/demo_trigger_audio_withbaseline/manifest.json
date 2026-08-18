@@ -1,0 +1,29 @@
+[
+  {
+    "clip": 0,
+    "handoff_frames": [
+      17434,
+      17513,
+      17589,
+      17592,
+      17593,
+      17593,
+      17596,
+      17596,
+      17680,
+      17689
+    ],
+    "turns": {
+      "baseline": 1,
+      "entropy": 4,
+      "js": 2,
+      "probe": 2
+    },
+    "files": [
+      "clip00_h17589_baseline.wav",
+      "clip00_h17589_entropy.wav",
+      "clip00_h17589_js.wav",
+      "clip00_h17589_probe.wav"
+    ]
+  }
+]

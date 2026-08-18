@@ -1,0 +1,213 @@
+============================================================
+ split=train
+ source : /home/ec25045/Documents/thesis/Candor dataset
+ tokens : tokens/   feats: feats/   pairs: pairs/
+============================================================
+
+[Stage A] CANDOR audio -> tokens (tokens/)
+/home/ec25045/Documents/thesis/files/v4_moshi/duplex-spec/moshi-venv/lib/python3.12/site-packages/moshi/models/loaders.py:204: UserWarning: Repository kyutai/moshiko-pytorch-bf16 contains no config.json. Assuming this is a Moshi 7B. Support for such repository might be removed in the future.
+  warnings.warn(
+[load] Mimi on cuda ...
+[plan] 40 conversation(s) -> tokens
+[ok] 002d68da-7738-4177-89d9-d72ae803e0e4: tokens (2, 8, 27579)  (2206.3s, src 48000Hz, expected_frames~27578)
+[ok] 0d4a795e-7026-4d98-b6d0-739a2c7c1661: tokens (2, 8, 20266)  (1621.3s, src 48000Hz, expected_frames~20265)
+[ok] 0da3e9ac-d5a5-4df0-abf4-f3eb3fc62788: tokens (2, 8, 23718)  (1897.4s, src 48000Hz, expected_frames~23717)
+[ok] 13f6956b-ff2a-4ad3-aed6-8fd3cfdb2cd4: tokens (2, 8, 53099)  (4247.9s, src 48000Hz, expected_frames~53098)
+[ok] 14e34c4e-4e27-42d8-928f-ad4a71f80764: tokens (2, 8, 24457)  (1956.6s, src 48000Hz, expected_frames~24456)
+[ok] 1d258491-0ed5-41c8-96c3-af875ef4f1c5: tokens (2, 8, 22030)  (1762.4s, src 48000Hz, expected_frames~22029)
+[ok] 1de1781f-ae79-4467-9724-f0808b7f55d7: tokens (2, 8, 22970)  (1837.6s, src 48000Hz, expected_frames~22969)
+[ok] 2f0ee486-0eb9-4ae0-a940-f0cc95e749f2: tokens (2, 8, 21726)  (1738.1s, src 48000Hz, expected_frames~21725)
+[ok] 34feb55e-d811-4684-89a3-362f4297b7fc: tokens (2, 8, 21769)  (1741.5s, src 48000Hz, expected_frames~21768)
+[ok] 356332e8-4e95-4967-8b20-8635761dc588: tokens (2, 8, 26556)  (2124.5s, src 48000Hz, expected_frames~26555)
+[ok] 3851cd44-577e-4d78-a45b-5333009f7dad: tokens (2, 8, 21776)  (1742.1s, src 48000Hz, expected_frames~21775)
+[ok] 3f0b4178-05d8-414b-9b4e-1164daa6ca25: tokens (2, 8, 26953)  (2156.2s, src 48000Hz, expected_frames~26952)
+[ok] 4680605f-b06d-4456-ad6e-6c4427175e4e: tokens (2, 8, 19301)  (1544.1s, src 48000Hz, expected_frames~19300)
+[ok] 46f8e9b8-f80a-48cf-90a0-2e29908202c0: tokens (2, 8, 20944)  (1675.5s, src 48000Hz, expected_frames~20943)
+[ok] 502b06e6-7054-4f5b-9558-a0dc66c0164c: tokens (2, 8, 21058)  (1684.6s, src 48000Hz, expected_frames~21057)
+[ok] 53bee564-d0d4-486f-85f9-565c5314486c: tokens (2, 8, 19828)  (1586.2s, src 48000Hz, expected_frames~19827)
+[ok] 5f968cf3-3b7f-4aef-9952-6be9e9f31db9: tokens (2, 8, 19229)  (1538.3s, src 48000Hz, expected_frames~19228)
+[ok] 63b17d05-e2ff-48c8-8e9f-68ce4a9ed951: tokens (2, 8, 35457)  (2836.6s, src 48000Hz, expected_frames~35456)
+[ok] 67836c1d-1334-41a0-a33a-4f788e8b6fb3: tokens (2, 8, 21664)  (1733.1s, src 48000Hz, expected_frames~21663)
+[ok] 67b58dc4-3de3-4725-90db-f5859b6c6e20: tokens (2, 8, 25855)  (2068.4s, src 48000Hz, expected_frames~25854)
+[ok] 73162393-05b0-4ed5-a8dd-ca0cf2faf9a8: tokens (2, 8, 22365)  (1789.2s, src 48000Hz, expected_frames~22364)
+[ok] 744707ad-c934-4b98-8df6-64b545881543: tokens (2, 8, 24878)  (1990.2s, src 48000Hz, expected_frames~24877)
+[ok] 754240f9-69ef-481c-8484-3de526bf96a3: tokens (2, 8, 29833)  (2386.6s, src 48000Hz, expected_frames~29832)
+[ok] 8852e872-d599-4a63-a49f-d0b520763919: tokens (2, 8, 32653)  (2612.2s, src 48000Hz, expected_frames~32652)
+[ok] 8a852635-85e0-4b09-8004-ad3d7de925d5: tokens (2, 8, 27351)  (2188.1s, src 48000Hz, expected_frames~27350)
+[ok] 95d7d1a0-eeca-4eda-9b1d-9e72edd0c560: tokens (2, 8, 29680)  (2374.4s, src 48000Hz, expected_frames~29679)
+[ok] 9ab45631-cba1-44aa-8e56-34f95a0dc699: tokens (2, 8, 23405)  (1872.4s, src 48000Hz, expected_frames~23404)
+[ok] a56b2f30-45f4-4ab7-8e3d-21499dcc1c00: tokens (2, 8, 27700)  (2216.0s, src 48000Hz, expected_frames~27699)
+[ok] a8509e7c-59b8-4a05-a5b0-b23c3bc40f2d: tokens (2, 8, 27534)  (2202.7s, src 48000Hz, expected_frames~27533)
+[ok] ab5e3167-3a6d-458f-84f2-2cdeebdaa393: tokens (2, 8, 19363)  (1549.0s, src 48000Hz, expected_frames~19362)
+[ok] b3d12e44-b38e-4c6f-b63f-2016f0f04b94: tokens (2, 8, 55553)  (4444.2s, src 48000Hz, expected_frames~55552)
+[ok] bcb7c44b-e360-4e14-a40c-91da05b6289e: tokens (2, 8, 22405)  (1792.4s, src 48000Hz, expected_frames~22404)
+[ok] c4caca36-1ace-44de-844a-0933eface36a: tokens (2, 8, 40546)  (3243.7s, src 48000Hz, expected_frames~40545)
+[ok] c9400bba-e0de-42ee-acf5-ec0c3b341b24: tokens (2, 8, 20574)  (1645.9s, src 48000Hz, expected_frames~20573)
+[ok] cb18ac98-a58c-4599-8bc8-461dab667322: tokens (2, 8, 24738)  (1979.0s, src 48000Hz, expected_frames~24737)
+[ok] d3b4cd4a-45a9-46f7-95b2-dbd513ffa651: tokens (2, 8, 48957)  (3916.6s, src 48000Hz, expected_frames~48956)
+[ok] e2a8df83-6b26-45f0-8d4a-174233968970: tokens (2, 8, 19696)  (1575.7s, src 48000Hz, expected_frames~19695)
+[ok] e690dd3f-9308-41df-aa46-7979ddd87caf: tokens (2, 8, 29998)  (2399.8s, src 48000Hz, expected_frames~29997)
+[ok] ec202fef-184e-4931-9a2a-69ae6b017b0c: tokens (2, 8, 36179)  (2894.3s, src 48000Hz, expected_frames~36178)
+[ok] f0948185-674d-4bab-afab-9775ca17f21d: tokens (2, 8, 25645)  (2051.6s, src 48000Hz, expected_frames~25644)
+[done] 40/40 ok  -> tokens/manifest.jsonl
+
+[Stage B] frozen Moshi -> features (feats/)
+  [skip] 002d68da-7738-4177-89d9-d72ae803e0e4 (features exist)
+  [skip] 0d4a795e-7026-4d98-b6d0-739a2c7c1661 (features exist)
+  [skip] 0da3e9ac-d5a5-4df0-abf4-f3eb3fc62788 (features exist)
+  === 13f6956b-ff2a-4ad3-aed6-8fd3cfdb2cd4 ===
+[data] 13f6956b-ff2a-4ad3-aed6-8fd3cfdb2cd4.npy: K=8 T=53099  user=ch0 moshi=ch1
+[lm  ] num_codebooks=17 dep_q=8 user_stream_codebooks=8
+[ok  ] feats (53098, 4096) frames[1..53098]  M=53098 (T=53099, warmup=1)  peak=9.60 GB
+[save] feats/13f6956b-ff2a-4ad3-aed6-8fd3cfdb2cd4.npz  (870.0 MB)
+
+Validate: M ~= T - max_delay, dim=4096, peak < 16GB, no errors.
+  === 14e34c4e-4e27-42d8-928f-ad4a71f80764 ===
+[data] 14e34c4e-4e27-42d8-928f-ad4a71f80764.npy: K=8 T=24457  user=ch0 moshi=ch1
+[lm  ] num_codebooks=17 dep_q=8 user_stream_codebooks=8
+[ok  ] feats (24456, 4096) frames[1..24456]  M=24456 (T=24457, warmup=1)  peak=9.60 GB
+[save] feats/14e34c4e-4e27-42d8-928f-ad4a71f80764.npz  (400.7 MB)
+
+Validate: M ~= T - max_delay, dim=4096, peak < 16GB, no errors.
+  [skip] 1d258491-0ed5-41c8-96c3-af875ef4f1c5 (features exist)
+  [skip] 1de1781f-ae79-4467-9724-f0808b7f55d7 (features exist)
+  [skip] 2c9f9799-b379-4c6e-91dd-38a1897d4ff6 (features exist)
+  [skip] 2f0ee486-0eb9-4ae0-a940-f0cc95e749f2 (features exist)
+  === 34feb55e-d811-4684-89a3-362f4297b7fc ===
+[data] 34feb55e-d811-4684-89a3-362f4297b7fc.npy: K=8 T=21769  user=ch0 moshi=ch1
+[lm  ] num_codebooks=17 dep_q=8 user_stream_codebooks=8
+[ok  ] feats (21768, 4096) frames[1..21768]  M=21768 (T=21769, warmup=1)  peak=9.60 GB
+[save] feats/34feb55e-d811-4684-89a3-362f4297b7fc.npz  (356.6 MB)
+
+Validate: M ~= T - max_delay, dim=4096, peak < 16GB, no errors.
+  === 356332e8-4e95-4967-8b20-8635761dc588 ===
+[data] 356332e8-4e95-4967-8b20-8635761dc588.npy: K=8 T=26556  user=ch0 moshi=ch1
+[lm  ] num_codebooks=17 dep_q=8 user_stream_codebooks=8
+[ok  ] feats (26555, 4096) frames[1..26555]  M=26555 (T=26556, warmup=1)  peak=9.60 GB
+[save] feats/356332e8-4e95-4967-8b20-8635761dc588.npz  (435.1 MB)
+
+Validate: M ~= T - max_delay, dim=4096, peak < 16GB, no errors.
+  === 3851cd44-577e-4d78-a45b-5333009f7dad ===
+[data] 3851cd44-577e-4d78-a45b-5333009f7dad.npy: K=8 T=21776  user=ch0 moshi=ch1
+[lm  ] num_codebooks=17 dep_q=8 user_stream_codebooks=8
+[ok  ] feats (21775, 4096) frames[1..21775]  M=21775 (T=21776, warmup=1)  peak=9.60 GB
+[save] feats/3851cd44-577e-4d78-a45b-5333009f7dad.npz  (356.8 MB)
+
+Validate: M ~= T - max_delay, dim=4096, peak < 16GB, no errors.
+  [skip] 3f0b4178-05d8-414b-9b4e-1164daa6ca25 (features exist)
+  === 4680605f-b06d-4456-ad6e-6c4427175e4e ===
+[data] 4680605f-b06d-4456-ad6e-6c4427175e4e.npy: K=8 T=19301  user=ch0 moshi=ch1
+[lm  ] num_codebooks=17 dep_q=8 user_stream_codebooks=8
+[ok  ] feats (19300, 4096) frames[1..19300]  M=19300 (T=19301, warmup=1)  peak=9.60 GB
+[save] feats/4680605f-b06d-4456-ad6e-6c4427175e4e.npz  (316.2 MB)
+
+Validate: M ~= T - max_delay, dim=4096, peak < 16GB, no errors.
+  === 46f8e9b8-f80a-48cf-90a0-2e29908202c0 ===
+[data] 46f8e9b8-f80a-48cf-90a0-2e29908202c0.npy: K=8 T=20944  user=ch0 moshi=ch1
+[lm  ] num_codebooks=17 dep_q=8 user_stream_codebooks=8
+[ok  ] feats (20943, 4096) frames[1..20943]  M=20943 (T=20944, warmup=1)  peak=9.60 GB
+[save] feats/46f8e9b8-f80a-48cf-90a0-2e29908202c0.npz  (343.1 MB)
+
+Validate: M ~= T - max_delay, dim=4096, peak < 16GB, no errors.
+  === 502b06e6-7054-4f5b-9558-a0dc66c0164c ===
+[data] 502b06e6-7054-4f5b-9558-a0dc66c0164c.npy: K=8 T=21058  user=ch0 moshi=ch1
+[lm  ] num_codebooks=17 dep_q=8 user_stream_codebooks=8
+[ok  ] feats (21057, 4096) frames[1..21057]  M=21057 (T=21058, warmup=1)  peak=9.60 GB
+[save] feats/502b06e6-7054-4f5b-9558-a0dc66c0164c.npz  (345.0 MB)
+
+Validate: M ~= T - max_delay, dim=4096, peak < 16GB, no errors.
+  === 53bee564-d0d4-486f-85f9-565c5314486c ===
+[data] 53bee564-d0d4-486f-85f9-565c5314486c.npy: K=8 T=19828  user=ch0 moshi=ch1
+[lm  ] num_codebooks=17 dep_q=8 user_stream_codebooks=8
+[ok  ] feats (19827, 4096) frames[1..19827]  M=19827 (T=19828, warmup=1)  peak=9.60 GB
+[save] feats/53bee564-d0d4-486f-85f9-565c5314486c.npz  (324.8 MB)
+
+Validate: M ~= T - max_delay, dim=4096, peak < 16GB, no errors.
+  [skip] 5bde82b3-4a86-497b-a4c6-a26f3ce01e87 (features exist)
+  [skip] 5f968cf3-3b7f-4aef-9952-6be9e9f31db9 (features exist)
+  === 63b17d05-e2ff-48c8-8e9f-68ce4a9ed951 ===
+[data] 63b17d05-e2ff-48c8-8e9f-68ce4a9ed951.npy: K=8 T=35457  user=ch0 moshi=ch1
+[lm  ] num_codebooks=17 dep_q=8 user_stream_codebooks=8
+[ok  ] feats (35456, 4096) frames[1..35456]  M=35456 (T=35457, warmup=1)  peak=9.60 GB
+[save] feats/63b17d05-e2ff-48c8-8e9f-68ce4a9ed951.npz  (580.9 MB)
+
+Validate: M ~= T - max_delay, dim=4096, peak < 16GB, no errors.
+  === 67836c1d-1334-41a0-a33a-4f788e8b6fb3 ===
+[data] 67836c1d-1334-41a0-a33a-4f788e8b6fb3.npy: K=8 T=21664  user=ch0 moshi=ch1
+[lm  ] num_codebooks=17 dep_q=8 user_stream_codebooks=8
+[ok  ] feats (21663, 4096) frames[1..21663]  M=21663 (T=21664, warmup=1)  peak=9.60 GB
+[save] feats/67836c1d-1334-41a0-a33a-4f788e8b6fb3.npz  (354.9 MB)
+
+Validate: M ~= T - max_delay, dim=4096, peak < 16GB, no errors.
+  === 67b58dc4-3de3-4725-90db-f5859b6c6e20 ===
+[data] 67b58dc4-3de3-4725-90db-f5859b6c6e20.npy: K=8 T=25855  user=ch0 moshi=ch1
+[lm  ] num_codebooks=17 dep_q=8 user_stream_codebooks=8
+[ok  ] feats (25854, 4096) frames[1..25854]  M=25854 (T=25855, warmup=1)  peak=9.60 GB
+[save] feats/67b58dc4-3de3-4725-90db-f5859b6c6e20.npz  (423.6 MB)
+
+Validate: M ~= T - max_delay, dim=4096, peak < 16GB, no errors.
+  === 73162393-05b0-4ed5-a8dd-ca0cf2faf9a8 ===
+[data] 73162393-05b0-4ed5-a8dd-ca0cf2faf9a8.npy: K=8 T=22365  user=ch0 moshi=ch1
+[lm  ] num_codebooks=17 dep_q=8 user_stream_codebooks=8
+[ok  ] feats (22364, 4096) frames[1..22364]  M=22364 (T=22365, warmup=1)  peak=9.60 GB
+[save] feats/73162393-05b0-4ed5-a8dd-ca0cf2faf9a8.npz  (366.4 MB)
+
+Validate: M ~= T - max_delay, dim=4096, peak < 16GB, no errors.
+  === 744707ad-c934-4b98-8df6-64b545881543 ===
+[data] 744707ad-c934-4b98-8df6-64b545881543.npy: K=8 T=24878  user=ch0 moshi=ch1
+[lm  ] num_codebooks=17 dep_q=8 user_stream_codebooks=8
+[ok  ] feats (24877, 4096) frames[1..24877]  M=24877 (T=24878, warmup=1)  peak=9.60 GB
+[save] feats/744707ad-c934-4b98-8df6-64b545881543.npz  (407.6 MB)
+
+Validate: M ~= T - max_delay, dim=4096, peak < 16GB, no errors.
+  === 754240f9-69ef-481c-8484-3de526bf96a3 ===
+[data] 754240f9-69ef-481c-8484-3de526bf96a3.npy: K=8 T=29833  user=ch0 moshi=ch1
+[lm  ] num_codebooks=17 dep_q=8 user_stream_codebooks=8
+[ok  ] feats (29832, 4096) frames[1..29832]  M=29832 (T=29833, warmup=1)  peak=9.60 GB
+[save] feats/754240f9-69ef-481c-8484-3de526bf96a3.npz  (488.8 MB)
+
+Validate: M ~= T - max_delay, dim=4096, peak < 16GB, no errors.
+  === 8852e872-d599-4a63-a49f-d0b520763919 ===
+[data] 8852e872-d599-4a63-a49f-d0b520763919.npy: K=8 T=32653  user=ch0 moshi=ch1
+[lm  ] num_codebooks=17 dep_q=8 user_stream_codebooks=8
+[ok  ] feats (32652, 4096) frames[1..32652]  M=32652 (T=32653, warmup=1)  peak=9.60 GB
+[save] feats/8852e872-d599-4a63-a49f-d0b520763919.npz  (535.0 MB)
+
+Validate: M ~= T - max_delay, dim=4096, peak < 16GB, no errors.
+  [skip] 8a852635-85e0-4b09-8004-ad3d7de925d5 (features exist)
+  === 95d7d1a0-eeca-4eda-9b1d-9e72edd0c560 ===
+[data] 95d7d1a0-eeca-4eda-9b1d-9e72edd0c560.npy: K=8 T=29680  user=ch0 moshi=ch1
+[lm  ] num_codebooks=17 dep_q=8 user_stream_codebooks=8
+[ok  ] feats (29679, 4096) frames[1..29679]  M=29679 (T=29680, warmup=1)  peak=9.60 GB
+[save] feats/95d7d1a0-eeca-4eda-9b1d-9e72edd0c560.npz  (486.3 MB)
+
+Validate: M ~= T - max_delay, dim=4096, peak < 16GB, no errors.
+  === 9ab45631-cba1-44aa-8e56-34f95a0dc699 ===
+[data] 9ab45631-cba1-44aa-8e56-34f95a0dc699.npy: K=8 T=23405  user=ch0 moshi=ch1
+[lm  ] num_codebooks=17 dep_q=8 user_stream_codebooks=8
+[ok  ] feats (23404, 4096) frames[1..23404]  M=23404 (T=23405, warmup=1)  peak=9.60 GB
+[save] feats/9ab45631-cba1-44aa-8e56-34f95a0dc699.npz  (383.5 MB)
+
+Validate: M ~= T - max_delay, dim=4096, peak < 16GB, no errors.
+  === a56b2f30-45f4-4ab7-8e3d-21499dcc1c00 ===
+[data] a56b2f30-45f4-4ab7-8e3d-21499dcc1c00.npy: K=8 T=27700  user=ch0 moshi=ch1
+[lm  ] num_codebooks=17 dep_q=8 user_stream_codebooks=8
+[ok  ] feats (27699, 4096) frames[1..27699]  M=27699 (T=27700, warmup=1)  peak=9.60 GB
+[save] feats/a56b2f30-45f4-4ab7-8e3d-21499dcc1c00.npz  (453.8 MB)
+
+Validate: M ~= T - max_delay, dim=4096, peak < 16GB, no errors.
+  === a8509e7c-59b8-4a05-a5b0-b23c3bc40f2d ===
+[data] a8509e7c-59b8-4a05-a5b0-b23c3bc40f2d.npy: K=8 T=27534  user=ch0 moshi=ch1
+[lm  ] num_codebooks=17 dep_q=8 user_stream_codebooks=8
+[ok  ] feats (27533, 4096) frames[1..27533]  M=27533 (T=27534, warmup=1)  peak=9.60 GB
+[save] feats/a8509e7c-59b8-4a05-a5b0-b23c3bc40f2d.npz  (451.1 MB)
+
+Validate: M ~= T - max_delay, dim=4096, peak < 16GB, no errors.
+  === ab5e3167-3a6d-458f-84f2-2cdeebdaa393 ===
+[data] ab5e3167-3a6d-458f-84f2-2cdeebdaa393.npy: K=8 T=19363  user=ch0 moshi=ch1
+[lm  ] num_codebooks=17 dep_q=8 user_stream_codebooks=8
+[ok  ] feats (19362, 4096) frames[1..19362]  M=19362 (T=19363, warmup=1)  peak=9.60 GB
+[save] feats/ab5e3167-3a6d-458f-84f2-2cdeebdaa393.npz  (317.2 MB)
+
+Validate: M ~= T - max_delay, dim=4096, peak < 16GB, no errors.
+  === b3d12e44-b38e-4c6f-b63f-2016f0f04b94 ===

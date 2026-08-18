@@ -1,0 +1,20 @@
+{
+  "baseline": {
+    "lat_mean": 1797.5,
+    "lat_std": 752.7740364810678,
+    "overlap_mean": 6.03125,
+    "overlap_std": 2.8550325632994102,
+    "talk_mean": 17.08125,
+    "talk_std": 5.427587948389229,
+    "n": 8
+  },
+  "probe": {
+    "lat_mean": 2758.75,
+    "lat_std": 1878.9587375724886,
+    "overlap_mean": 4.99375,
+    "overlap_std": 2.644976075033572,
+    "talk_mean": 13.83125,
+    "talk_std": 8.83218324863677,
+    "n": 8
+  }
+}

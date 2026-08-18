@@ -1,0 +1,56 @@
+[
+  {
+    "clip": 0,
+    "handoff_frame": 9684,
+    "releases": {
+      "oracle": 9678,
+      "reactive": 9692,
+      "entropy": 9535,
+      "js": 9540,
+      "probe": 9538
+    },
+    "files": [
+      "clip00_h9684_oracle.wav",
+      "clip00_h9684_reactive.wav",
+      "clip00_h9684_entropy.wav",
+      "clip00_h9684_js.wav",
+      "clip00_h9684_probe.wav"
+    ]
+  },
+  {
+    "clip": 1,
+    "handoff_frame": 12692,
+    "releases": {
+      "oracle": 12686,
+      "reactive": 12700,
+      "entropy": 12546,
+      "js": 12582,
+      "probe": 12555
+    },
+    "files": [
+      "clip01_h12692_oracle.wav",
+      "clip01_h12692_reactive.wav",
+      "clip01_h12692_entropy.wav",
+      "clip01_h12692_js.wav",
+      "clip01_h12692_probe.wav"
+    ]
+  },
+  {
+    "clip": 2,
+    "handoff_frame": 17589,
+    "releases": {
+      "oracle": 17583,
+      "reactive": 17597,
+      "entropy": 17439,
+      "js": 17445,
+      "probe": 17444
+    },
+    "files": [
+      "clip02_h17589_oracle.wav",
+      "clip02_h17589_reactive.wav",
+      "clip02_h17589_entropy.wav",
+      "clip02_h17589_js.wav",
+      "clip02_h17589_probe.wav"
+    ]
+  }
+]

@@ -1,0 +1,202 @@
+{
+  "002d68da-7738-4177-89d9-d72ae803e0e4": {
+    "handoffs": 300,
+    "n_frames": 27579,
+    "per_min": 8.158381377134775
+  },
+  "0d4a795e-7026-4d98-b6d0-739a2c7c1661": {
+    "handoffs": 344,
+    "n_frames": 20266,
+    "per_min": 12.730681930326655
+  },
+  "0da3e9ac-d5a5-4df0-abf4-f3eb3fc62788": {
+    "handoffs": 281,
+    "n_frames": 23718,
+    "per_min": 8.885656463445484
+  },
+  "13f6956b-ff2a-4ad3-aed6-8fd3cfdb2cd4": {
+    "handoffs": 359,
+    "n_frames": 53099,
+    "per_min": 5.070716962654664
+  },
+  "14e34c4e-4e27-42d8-928f-ad4a71f80764": {
+    "handoffs": 281,
+    "n_frames": 24457,
+    "per_min": 8.617164819887966
+  },
+  "1d258491-0ed5-41c8-96c3-af875ef4f1c5": {
+    "handoffs": 278,
+    "n_frames": 22030,
+    "per_min": 9.46436677258284
+  },
+  "1de1781f-ae79-4467-9724-f0808b7f55d7": {
+    "handoffs": 270,
+    "n_frames": 22970,
+    "per_min": 8.815846756639095
+  },
+  "2f0ee486-0eb9-4ae0-a940-f0cc95e749f2": {
+    "handoffs": 256,
+    "n_frames": 21726,
+    "per_min": 8.83733775200221
+  },
+  "34feb55e-d811-4684-89a3-362f4297b7fc": {
+    "handoffs": 209,
+    "n_frames": 21769,
+    "per_min": 7.200606366851946
+  },
+  "356332e8-4e95-4967-8b20-8635761dc588": {
+    "handoffs": 472,
+    "n_frames": 26556,
+    "per_min": 13.33032083145052
+  },
+  "3851cd44-577e-4d78-a45b-5333009f7dad": {
+    "handoffs": 187,
+    "n_frames": 21776,
+    "per_min": 6.4405767817781046
+  },
+  "3f0b4178-05d8-414b-9b4e-1164daa6ca25": {
+    "handoffs": 293,
+    "n_frames": 26953,
+    "per_min": 8.15308128965236
+  },
+  "4680605f-b06d-4456-ad6e-6c4427175e4e": {
+    "handoffs": 346,
+    "n_frames": 19301,
+    "per_min": 13.444899228019274
+  },
+  "46f8e9b8-f80a-48cf-90a0-2e29908202c0": {
+    "handoffs": 329,
+    "n_frames": 20944,
+    "per_min": 11.781417112299465
+  },
+  "502b06e6-7054-4f5b-9558-a0dc66c0164c": {
+    "handoffs": 267,
+    "n_frames": 21058,
+    "per_min": 9.509450090226991
+  },
+  "53bee564-d0d4-486f-85f9-565c5314486c": {
+    "handoffs": 204,
+    "n_frames": 19828,
+    "per_min": 7.716360702037522
+  },
+  "5f968cf3-3b7f-4aef-9952-6be9e9f31db9": {
+    "handoffs": 281,
+    "n_frames": 19229,
+    "per_min": 10.96000832076551
+  },
+  "63b17d05-e2ff-48c8-8e9f-68ce4a9ed951": {
+    "handoffs": 281,
+    "n_frames": 35457,
+    "per_min": 5.9438192740502584
+  },
+  "67836c1d-1334-41a0-a33a-4f788e8b6fb3": {
+    "handoffs": 176,
+    "n_frames": 21664,
+    "per_min": 6.0930576070901035
+  },
+  "67b58dc4-3de3-4725-90db-f5859b6c6e20": {
+    "handoffs": 164,
+    "n_frames": 25855,
+    "per_min": 4.757300328756527
+  },
+  "73162393-05b0-4ed5-a8dd-ca0cf2faf9a8": {
+    "handoffs": 437,
+    "n_frames": 22365,
+    "per_min": 14.65459423205902
+  },
+  "744707ad-c934-4b98-8df6-64b545881543": {
+    "handoffs": 246,
+    "n_frames": 24878,
+    "per_min": 7.416191012139239
+  },
+  "754240f9-69ef-481c-8484-3de526bf96a3": {
+    "handoffs": 587,
+    "n_frames": 29833,
+    "per_min": 14.757148124560052
+  },
+  "8852e872-d599-4a63-a49f-d0b520763919": {
+    "handoffs": 423,
+    "n_frames": 32653,
+    "per_min": 9.715799467124002
+  },
+  "8a852635-85e0-4b09-8004-ad3d7de925d5": {
+    "handoffs": 110,
+    "n_frames": 27351,
+    "per_min": 3.0163430953164423
+  },
+  "95d7d1a0-eeca-4eda-9b1d-9e72edd0c560": {
+    "handoffs": 437,
+    "n_frames": 29680,
+    "per_min": 11.042789757412399
+  },
+  "9ab45631-cba1-44aa-8e56-34f95a0dc699": {
+    "handoffs": 288,
+    "n_frames": 23405,
+    "per_min": 9.228797265541552
+  },
+  "a56b2f30-45f4-4ab7-8e3d-21499dcc1c00": {
+    "handoffs": 378,
+    "n_frames": 27700,
+    "per_min": 10.234657039711193
+  },
+  "a8509e7c-59b8-4a05-a5b0-b23c3bc40f2d": {
+    "handoffs": 341,
+    "n_frames": 27534,
+    "per_min": 9.288516016561344
+  },
+  "ab5e3167-3a6d-458f-84f2-2cdeebdaa393": {
+    "handoffs": 624,
+    "n_frames": 19363,
+    "per_min": 24.16980839745907
+  },
+  "b3d12e44-b38e-4c6f-b63f-2016f0f04b94": {
+    "handoffs": 413,
+    "n_frames": 55553,
+    "per_min": 5.5757564847983
+  },
+  "bcb7c44b-e360-4e14-a40c-91da05b6289e": {
+    "handoffs": 204,
+    "n_frames": 22405,
+    "per_min": 6.8288328498103095
+  },
+  "c4caca36-1ace-44de-844a-0933eface36a": {
+    "handoffs": 417,
+    "n_frames": 40546,
+    "per_min": 7.713461253884478
+  },
+  "c9400bba-e0de-42ee-acf5-ec0c3b341b24": {
+    "handoffs": 271,
+    "n_frames": 20574,
+    "per_min": 9.878973461650626
+  },
+  "cb18ac98-a58c-4599-8bc8-461dab667322": {
+    "handoffs": 454,
+    "n_frames": 24738,
+    "per_min": 13.764249333009943
+  },
+  "d3b4cd4a-45a9-46f7-95b2-dbd513ffa651": {
+    "handoffs": 1129,
+    "n_frames": 48957,
+    "per_min": 17.295790183222014
+  },
+  "e2a8df83-6b26-45f0-8d4a-174233968970": {
+    "handoffs": 267,
+    "n_frames": 19696,
+    "per_min": 10.167038992688871
+  },
+  "e690dd3f-9308-41df-aa46-7979ddd87caf": {
+    "handoffs": 494,
+    "n_frames": 29998,
+    "per_min": 12.35082338822588
+  },
+  "ec202fef-184e-4931-9a2a-69ae6b017b0c": {
+    "handoffs": 496,
+    "n_frames": 36179,
+    "per_min": 10.28220791066641
+  },
+  "f0948185-674d-4bab-afab-9775ca17f21d": {
+    "handoffs": 296,
+    "n_frames": 25645,
+    "per_min": 8.656658217976213
+  }
+}

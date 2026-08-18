@@ -1,0 +1,20 @@
+{
+  "baseline": {
+    "gap_fill_mean": 12.469472557607677,
+    "gap_fill_std": 5.713831170792944,
+    "overlap_mean": 9.6625,
+    "overlap_std": 3.2641758148114506,
+    "engage_mean": 34.11703924008072,
+    "engage_std": 18.087316535335805,
+    "n": 8
+  },
+  "probe": {
+    "gap_fill_mean": 13.040711394771593,
+    "gap_fill_std": 5.837785607190229,
+    "overlap_mean": 7.4875,
+    "overlap_std": 2.614472939236511,
+    "engage_mean": 37.53327131384897,
+    "engage_std": 16.17214652345159,
+    "n": 8
+  }
+}

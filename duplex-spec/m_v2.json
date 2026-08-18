@@ -1,0 +1,35 @@
+{
+  "baseline": {
+    "time_to_engage_ms": 170.0,
+    "gap_fill_pct": 10.427272727272728,
+    "engage_rate_pct": 34.54545454545455,
+    "overlap_pct": 4.5,
+    "dead_air_pct": 57.775,
+    "moshi_talk_pct": 9.775,
+    "n_moshi_turns": 21,
+    "n_turn_ends": 110,
+    "response_latency_ms": 170.0
+  },
+  "js": {
+    "time_to_engage_ms": 340.0,
+    "gap_fill_pct": 7.454545454545455,
+    "engage_rate_pct": 28.181818181818183,
+    "overlap_pct": 2.175,
+    "dead_air_pct": 57.525,
+    "moshi_talk_pct": 7.7,
+    "n_moshi_turns": 30,
+    "n_turn_ends": 110,
+    "response_latency_ms": 340.0
+  },
+  "probe": {
+    "time_to_engage_ms": 70.0,
+    "gap_fill_pct": 10.0,
+    "engage_rate_pct": 23.636363636363637,
+    "overlap_pct": 2.5,
+    "dead_air_pct": 56.975,
+    "moshi_talk_pct": 8.575,
+    "n_moshi_turns": 34,
+    "n_turn_ends": 110,
+    "response_latency_ms": 70.0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "baseline": {
+    "response_latency_ms": 4150.0,
+    "response_latency_mean_ms": 6540.0,
+    "overlap_pct": 4.5,
+    "dead_air_pct": 57.775,
+    "moshi_talk_pct": 9.775,
+    "n_moshi_turns": 21,
+    "n_responses": 106
+  },
+  "js": {
+    "response_latency_ms": 5070.0,
+    "response_latency_mean_ms": 5307.735849056604,
+    "overlap_pct": 2.175,
+    "dead_air_pct": 57.525,
+    "moshi_talk_pct": 7.7,
+    "n_moshi_turns": 30,
+    "n_responses": 106
+  },
+  "probe": {
+    "response_latency_ms": 3680.0,
+    "response_latency_mean_ms": 4383.692307692308,
+    "overlap_pct": 2.5,
+    "dead_air_pct": 56.975,
+    "moshi_talk_pct": 8.575,
+    "n_moshi_turns": 34,
+    "n_responses": 65
+  }
+}

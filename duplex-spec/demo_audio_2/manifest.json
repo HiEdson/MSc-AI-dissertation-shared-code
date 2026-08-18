@@ -1,0 +1,58 @@
+[
+  {
+    "example": 0,
+    "frame": 6133,
+    "channel": 1,
+    "argmax_token": 1208,
+    "true_token": 1316,
+    "true_rank": 1,
+    "entropy": 0.406,
+    "files": [
+      "ex00_f6133_1_ground_truth.wav",
+      "ex00_f6133_2_argmax.wav",
+      "ex00_f6133_3_true_top5.wav"
+    ]
+  },
+  {
+    "example": 1,
+    "frame": 10579,
+    "channel": 1,
+    "argmax_token": 1316,
+    "true_token": 2029,
+    "true_rank": 1,
+    "entropy": 0.275,
+    "files": [
+      "ex01_f10579_1_ground_truth.wav",
+      "ex01_f10579_2_argmax.wav",
+      "ex01_f10579_3_true_top5.wav"
+    ]
+  },
+  {
+    "example": 2,
+    "frame": 16015,
+    "channel": 1,
+    "argmax_token": 1842,
+    "true_token": 1316,
+    "true_rank": 1,
+    "entropy": 0.397,
+    "files": [
+      "ex02_f16015_1_ground_truth.wav",
+      "ex02_f16015_2_argmax.wav",
+      "ex02_f16015_3_true_top5.wav"
+    ]
+  },
+  {
+    "example": 3,
+    "frame": 12146,
+    "channel": 1,
+    "argmax_token": 1648,
+    "true_token": 768,
+    "true_rank": 1,
+    "entropy": 0.347,
+    "files": [
+      "ex03_f12146_1_ground_truth.wav",
+      "ex03_f12146_2_argmax.wav",
+      "ex03_f12146_3_true_top5.wav"
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "clip": 0,
+    "handoff_frames": [
+      9087,
+      9090,
+      9123,
+      9128,
+      9138,
+      9147,
+      9150,
+      9154,
+      9199
+    ],
+    "turns": {
+      "baseline": 1,
+      "probe": 1
+    },
+    "files": [
+      "clip00_h8950_baseline.wav",
+      "clip00_h8950_probe.wav"
+    ]
+  }
+]
